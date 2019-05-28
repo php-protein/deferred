@@ -1,6 +1,6 @@
 {
-    "name": "proteins/url",
-    "description": "Helper object for parsing, building and handling URLs",
+    "name": "proteins/deferred",
+    "description": "Ensure deferred execution of code, even in case of fatal error.",
     "type": "library",
     "license": "MIT",
     "authors": [
